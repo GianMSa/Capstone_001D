@@ -1,1 +1,1 @@
-# Capstone25
+Detalles proyecto
